@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Spotify](https://spotify-realtime-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/laeh_da_funk)
-
 <!--
 **romaincabirol/romaincabirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
